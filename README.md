@@ -64,7 +64,7 @@
 ![alt text](<Captura de pantalla de 2025-06-01 00-06-29.png>)
 ### QUIZ
 ![alt text](<Captura de pantalla de 2025-06-01 00-07-12.png>)
-### 6. file
+### 6. file.
 > En Linux los nombres del archivo no estan obligados a representar el contenido del archivo. Se podria tener un archivo llamado sistemas.gif que en realidad no es un GIF. Para averiguar el tipo del archivo se utiliza el comando file 
 ### Exercises
 > Ejecute el comando file en unos directorios y archivos
